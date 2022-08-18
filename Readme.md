@@ -1,9 +1,18 @@
 # Project Title
 
-A brief description of what this project does and who it's for
+A Banking Website using **HTML**, **CSS** and **JavaScript** that stored the information about the users and the transactions such as credit and debit performed by the users.
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/Abhigyan-Srivastava/Online_Banking_System/master/Screenshots/Main_Page.png)
 
+![App Screenshot](https://raw.githubusercontent.com/Abhigyan-Srivastava/Online_Banking_System/master/Screenshots/Accounts.png)
+
+## Demo
+
+https://abhigyan-srivastava.github.io/Online_Banking_System/
+
+## Authors
+
+- [@Abhigyan-Srivastava](https://github.com/Abhigyan-Srivastava)
