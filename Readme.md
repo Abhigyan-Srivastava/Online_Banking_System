@@ -13,6 +13,6 @@ A Banking Website using **HTML**, **CSS** and **JavaScript** that stored the inf
 
 https://abhigyan-srivastava.github.io/Online_Banking_System/
 
-## Authors
+## Author
 
 - [@Abhigyan-Srivastava](https://github.com/Abhigyan-Srivastava)
